@@ -342,8 +342,10 @@
 			        muted = !muted;
 			        if (muted) {
 			            gain_node.gain.value = 0;
+			            mute.value="打开音量";
 			        } else {
 			            gain_node.gain.value = volume.value;
+			            mute.value="关闭音量";
 			        }
 			    };
 			    volume.onchange = get_handle(function() {
