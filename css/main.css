@@ -70,5 +70,6 @@ h5,h6
 #container
 {
     margin: 61px auto 41px auto;
+    padding: 0 10px;
     width: 800px;
 }
