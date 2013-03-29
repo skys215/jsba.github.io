@@ -69,6 +69,6 @@ h5,h6
 }
 #container
 {
-    margin: 61px 0 41px 0;
-    padding: 20px;
+    margin: 61px auto 41px auto;
+    width: 800px;
 }
