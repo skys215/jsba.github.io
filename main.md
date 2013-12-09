@@ -17,6 +17,7 @@ PS. 由于有些网站的名称不确定，暂时使用页面标题或者页面�
     // 建议使用英文版，中文版内容不全且更新日期较旧。
 *   [MSDN](http://msdn.microsoft.com/ie/aa740473) (Microsoft Developer Network, 微软的文档)
 *   [WebPlatform](http://docs.webplatform.org/) (各大公司合作的一个产物，还不成熟)
+*   [OSC在线文档集锦](http://tool.oschina.net/apidocs/)(主流的不主流的手册基本能在这里找到)
 
 教程
 -----
